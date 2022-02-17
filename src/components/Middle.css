@@ -1,0 +1,28 @@
+.mid {
+    padding: 0px 15px 0px 15px;
+}
+
+.numbers {
+    margin: 3px;
+}
+
+.btn-primary {
+    background-color: white;
+    color: rgb(162, 0, 255);
+}
+
+.CheckGuess {
+    margin: 4px;
+    padding: 5px;
+    padding-inline: 10px;
+    background-color: green;
+    color: rgb(255, 255, 255);
+}
+
+.CheckGuess:hover {
+    background-color: green;
+}
+
+.mid-btns {
+    margin-top: 10px;
+}
